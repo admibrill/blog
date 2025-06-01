@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2d52c6db5251e654",
+    "type": "split",
+    "children": [
+      {
+        "id": "0217808ead11948f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f965296205cbade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexo12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexo12"
+            }
+          },
+          {
+            "id": "4754363169020af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexo13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexo13"
+            }
+          },
+          {
+            "id": "9bfa65198c7ac489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexo14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexo14"
+            }
+          },
+          {
+            "id": "59d32ba88d9ea997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexo15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexo15"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98d3d999b425b80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4fc7348882da4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbffa74229a979bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e01a9dcdc97346db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "64dc5b9a2b643cde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bbf24e85b50e9d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed0845abebe721b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18016cfcc81f290c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hexo13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "hexo13 的反向链接列表"
+            }
+          },
+          {
+            "id": "8ce8dc0b67af3dc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hexo13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "hexo13 的出链列表"
+            }
+          },
+          {
+            "id": "37d8771f79862cf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b1314be48a6077bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hexo15.md"
+              },
+              "icon": "lucide-list",
+              "title": "hexo15 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "59d32ba88d9ea997",
+  "lastOpenFiles": [
+    "hexo14.md",
+    "hexo15.md",
+    "hexo13.md",
+    "hexo1.md",
+    "hexo12.md",
+    "hexo2.md",
+    "hexo3.md",
+    "hexo4.md",
+    "hexo5.md",
+    "hexo6.md",
+    "hexo7.md",
+    "hexo8.md",
+    "hexo9.md",
+    "hexo10.md",
+    "hexo11.md"
+  ]
+}
