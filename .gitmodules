@@ -1,3 +1,6 @@
 [submodule "themes/solitude"]
 path = themes/solitude
 url = https://github.com/admibrill/hexo-theme-solitude.git
+[submodule "themes/hexo-theme-anzhiyu"]
+path = themes/hexo-theme-anzhiyu
+url = https://github.com/admibrill/hexo-theme-anzhiyu.git
