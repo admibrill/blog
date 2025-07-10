@@ -19,7 +19,7 @@ banner: true
 - 链接主体为个人，网站类型为博客
 - 贵站已添加本站连接
 
-{% note "info modern no-icon" %}一般情况下90%的友链申请会在3天内回复 {% endnote %}
+{% note "info modern no-icon" %}友链申请不定期检查，可以无法及时回复，敬请谅解{% endnote %}
 {% note "info modern no-icon" %}友链列表中的站点将不定期检查，30天无法访问的友链将移入失联友链{% endnote %}
 
 
