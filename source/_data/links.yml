@@ -82,8 +82,10 @@ links:
         topimg: https://blog.liushen.fun/info/siteshot.jpg
       - name: Ariasakaの小窝
         link: https://blog.yaria.top
-        avatar: https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00
+        avatar: https://img.0v0.my/2024/12/05/67517bcf104da.png
         descr: 人有悲欢离合 月有阴晴圆缺
+        siteshot: https://img.0v0.my/2024/09/19/66ec130ad1de0.png
+        theme_color: '#ed709b'
         topimg: https://vercel.yaria.top/img/siteshot.png
       - name: Redish101
         link: https://blog.redish101.top

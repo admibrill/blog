@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "hexo16"
             }
+          },
+          {
+            "id": "0a8f96eed68896e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexo17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexo17"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hexo16.md"
+                "file": "hexo17.md"
               },
               "icon": "lucide-list",
-              "title": "hexo16 的大纲"
+              "title": "hexo17 的大纲"
             }
           }
         ],
@@ -207,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +234,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8dc605ce42e790ac",
+  "active": "0a8f96eed68896e3",
   "lastOpenFiles": [
+    "hexo16.md",
+    "hexo17.md",
     "hexo10.md",
     "hexo13.md",
-    "hexo16.md",
     "hexo15.md",
     "hexo14.md",
     "未命名",

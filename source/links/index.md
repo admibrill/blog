@@ -8,7 +8,7 @@ banner: true
 # 我的信息
 - 名称：`Admibrill`
 - 网站地址：`https://blog.qyadbr.top`
-- 描述： `所有的进步都在路上`
+- 描述： `吾运行之，吾追求之。`
 - 头像地址：`https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png`
 - 网站封面：`https://source-admibrill.pages.dev/file/98110db06c2c189fb0e44.png`
 
